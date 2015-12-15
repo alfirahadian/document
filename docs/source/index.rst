@@ -19,8 +19,8 @@
    
    
 .. sidebar:: About
-   - Facebook :
-   - Twitter  :
+    * **Official site**: `http://www.cnc.org <http://www.cnc.org>`_
+    * **IRC**: `xxxxxx`
 
 
 Indices and tables
